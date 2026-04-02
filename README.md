@@ -107,7 +107,7 @@ GoogleカレンダーやNotionなど複数ツールで
 
 ```bash
 pip install PySide6
-python todo_diary_app_calendar_ui_v15.py
+python todo_diary_app.py
 ```
 
 ## ■ データ保存
